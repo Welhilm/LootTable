@@ -1,0 +1,45 @@
+default_epic:
+  iron_ingot:
+    chance: '50'
+    min-quantity: '1'
+    max-quantity: '3'
+  gold_ingot:
+    chance: '50'
+    min-quantity: '1'
+    max-quantity: '3'
+default_normal:
+  weapon_shihunzhe:
+    chance: '100'
+    min-quantity: '1'
+    max-quantity: '1'
+default_rare:
+  iron_ingot:
+    chance: '50'
+    min-quantity: '1'
+    max-quantity: '3'
+  gold_ingot:
+    chance: '50'
+    min-quantity: '1'
+    max-quantity: '3'
+default_legendary:
+  iron_ingot:
+    chance: '50'
+    min-quantity: '1'
+    max-quantity: '3'
+  gold_ingot:
+    chance: '50'
+    min-quantity: '1'
+    max-quantity: '3'
+medical:
+  bandage:
+    chance: '43.5'
+    min-quantity: '2'
+    max-quantity: '5'
+  adrenaline:
+    chance: '16.6'
+    min-quantity: '1'
+    max-quantity: '1'
+  antidote:
+    chance: '3.7'
+    min-quantity: '1'
+    max-quantity: '1'
