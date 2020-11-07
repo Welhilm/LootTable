@@ -8,10 +8,14 @@ default_epic:
     min-quantity: '1'
     max-quantity: '3'
 default_normal:
-  weapon_shihunzhe:
-    chance: '100'
+  iron_ingot:
+    chance: '50'
     min-quantity: '1'
-    max-quantity: '1'
+    max-quantity: '3'
+  gold_ingot:
+    chance: '50'
+    min-quantity: '1'
+    max-quantity: '3'
 default_rare:
   iron_ingot:
     chance: '50'
